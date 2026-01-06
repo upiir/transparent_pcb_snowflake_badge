@@ -3,6 +3,13 @@ Transparent Snowflake PCB Badge
 
 **YouTube video: https://youtu.be/ysQOw3fGInQ**
 
+Links from the video:
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
+- Christmas tree badge: https://youtu.be/Zqb2OhphVPo
+- My first PCB: https://youtu.be/6cqvTHCuDto
+- Custom PCB for ring light: https://youtu.be/Bot865qmdsM
+- Snowflake badge PCBWay project: https://www.pcbway.com/project/shareproject/Transparent_Snowflake_Christmas_PCB_Badge_1c15c05c.html
+
 
 
 ![THUMB_snowflake_badge_transparent_pcb_03](https://github.com/user-attachments/assets/c62cd499-1627-4124-9608-6a84e7ef72da)
