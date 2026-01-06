@@ -1,7 +1,7 @@
 # Transparent Snowflake PCB Badge
 Transparent Snowflake PCB Badge
 
-**YouTube video: https://youtu.be/ysQOw3fGInQ**
+**YouTube video: https://youtu.be/jDI_Xw7IoPI**
 
 Links from the video:
 - Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
